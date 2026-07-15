@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "product": "TGIAPP",
+  "channel": "beta",
+  "version": "1.4.7",
+  "build": 14,
+  "minimumSupportedVersion": "1.4.7",
+  "mandatory": false,
+  "releasedAt": "2026-07-14T00:00:00Z",
+  "title": "TGIAPP beta",
+  "notes": "Beta channel for testing and interface improvements.",
+  "downloadUrl": "https://github.com/Losfodabr12/tgi-app-suite-desktop/releases",
+  "sha256": null,
+  "signature": null
+}
